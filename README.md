@@ -5,3 +5,4 @@ Salom
 Good night 
 good morning
 good evening
+good afternoon
