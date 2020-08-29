@@ -1,13 +1,11 @@
 # gitStash
 gitStash
-Hello
-Salom
-Good night 
-good morning
-good evening
-good afternoon
-gooo good 
-good go
-asweq
-asdasd
-wewewe
+-------------------------
+git stash 
+git fetch 
+git pull 
+git stash pop
+'conflict change'
+git add .
+git commit -m 'conflict done'
+git push origin master
